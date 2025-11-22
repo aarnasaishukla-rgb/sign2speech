@@ -1,0 +1,12 @@
+flask
+mediapipe
+opencv-python
+numpy
+pandas
+scikit-learn
+gtts
+joblib
+matplotlib
+itsdangerous
+Werkzeug
+Jinja2
