@@ -38,9 +38,7 @@ Technologies Used
 - **SQLite3**
 - **Chart.js**
 
----
-
-## 📁 Project Structure
+Project Structure
 sign2speech/
 │ README.md
 │ statement.md
@@ -99,8 +97,7 @@ Test login and register functionality
 Check analytics dashboard graph
 
 Verify SQLite database entries
-
-⭐ Future Enhancements
+ Future Enhancements
 
 Real-time webcam detection
 
